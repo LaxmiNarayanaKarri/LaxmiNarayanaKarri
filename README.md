@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Andres’ GitHub stats](https://github-readme-stats.vercel.app/api?username=LaxmiNarayanaKarri&theme=synthwave&show_icons=true&count_private=true “Andres’ GutHub Stats”)
 <!--
 **LaxmiNarayanaKarri/LaxmiNarayanaKarri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
