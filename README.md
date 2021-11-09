@@ -1,4 +1,4 @@
-### Hi there,I'M Laxmi Narayana 👋
+### Hi there,I'm Laxmi Narayana 👋
 ### Glad to see you here!
 I am a Passionate Computer Science Student and web Developer. I love programming. I am fast learner and good listner.
 
